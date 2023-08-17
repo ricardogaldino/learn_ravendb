@@ -1,7 +1,8 @@
 # Microlearning - RavenDB (NoSQL)
 
 ## Docs
-https://github.com/ricardogaldino/docs-ravendb
+https://github.com/ricardogaldino/docs_ravendb
 
 ## PoC: CRUD (API)
-https://github.com/ricardogaldino/poc-ravendb-dotnet
+https://github.com/ricardogaldino/poc_ravendb-dotnet
+
